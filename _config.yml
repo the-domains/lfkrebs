@@ -1,7 +1,7 @@
 name: lfkrebs
 favicon: null
-layout_spectrum: 0.6918324404396117
-typography_spectrum: 0.6548894559964538
+layout_spectrum: 0
+typography_spectrum: 0.49211
 cta:
   domain: null
   bucket: null
