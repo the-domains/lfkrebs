@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lutz F. Krebs]]></title>
+        <description><![CDATA[Lutz F. Krebs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 09:56:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am a political scientist with a focus on international relations and conflict research. Having completed graduate degrees in economics, political science and humanitarian assistance, I focused on studying the impact of democratization processes on the likelihood of civil-war onset in ethnically heterogeneous countries as part of the Swiss National Center of Competence in Research "Challenges to Democracy in the 21st Century". I have collaborated in the development of a new coding method for democratization periods and contributed to the launch of the peer-reviewed journal Living Reviews in Democracy. For my dissertation at ETH Zurich, I have investigated the influence of political leaders on the likelihood of civil-war onset during democratization phases, challenging the theory of "elite manipulation" on the grounds that the theorized extensive influence of political leaders is unrealistic. As part of my second research focus, I have published an edited volume of student studies on the functioning of actors in the global civil society. 
+</p>]]></description>
+            <link>undefined1e11ad40-9a7e-44e5-8a10-1387a842b938/index.html</link>
+            <guid isPermaLink="false">1e11ad40-9a7e-44e5-8a10-1387a842b938</guid>
+            <pubDate>Fri, 04 Mar 2016 09:56:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
