@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Lutz F. Krebs]]></title>
         <description><![CDATA[Lutz F. Krebs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lfkrebs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 09:56:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 09:57:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lfkrebs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Open to Everyone]]></title>
+            <description><![CDATA[<article><h1>Open to Everyone</h1><p>I am happy to meet with you,in person or by Skype. To start making a booking, select the type of meeting you would like to sign up for to see my availability for the coming weeks and months…</p></article>]]></description>
+            <link>https://thegrid.ai/lfkrebs/4a70d236-a2ed-409b-9656-0e8a46e3988b/index.html</link>
+            <guid isPermaLink="false">4a70d236-a2ed-409b-9656-0e8a46e3988b</guid>
+            <pubDate>Fri, 04 Mar 2016 09:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I am a political scientist with a focus on international relations and conflict research. Having completed graduate degrees in economics, political science and humanitarian assistance, I focused on studying the impact of democratization processes on the likelihood of civil-war onset in ethnically heterogeneous countries as part of the Swiss National Center of Competence in Research "Challenges to Democracy in the 21st Century". I have collaborated in the development of a new coding method for democratization periods and contributed to the launch of the peer-reviewed journal Living Reviews in Democracy. For my dissertation at ETH Zurich, I have investigated the influence of political leaders on the likelihood of civil-war onset during democratization phases, challenging the theory of "elite manipulation" on the grounds that the theorized extensive influence of political leaders is unrealistic. As part of my second research focus, I have published an edited volume of student studies on the functioning of actors in the global civil society. 
 </p>]]></description>
-            <link>undefined1e11ad40-9a7e-44e5-8a10-1387a842b938/index.html</link>
+            <link>https://thegrid.ai/lfkrebs/1e11ad40-9a7e-44e5-8a10-1387a842b938/index.html</link>
             <guid isPermaLink="false">1e11ad40-9a7e-44e5-8a10-1387a842b938</guid>
             <pubDate>Fri, 04 Mar 2016 09:56:21 GMT</pubDate>
         </item>
